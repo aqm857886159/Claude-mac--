@@ -3,6 +3,8 @@
 在 macOS 上**同时运行多个 Claude 桌面端**，每个登录**不同账号**、数据完全隔离。
 一条命令搞定，附带踩坑全记录。
 
+**[English README →](README.en.md)** ｜ 不想用终端？克隆后**双击 `Install.command`** 即可。
+
 > 适用：macOS + 官方 [Claude 桌面端](https://claude.ai/download)（Electron 版）。
 > 原理对其他 Electron 应用（带单实例锁）也通用。
 
